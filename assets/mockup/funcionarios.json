@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "nome": "Maria Clara kamargo",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "dataContatacao": "2020-03-15",
+    "avatar" : "/assets/funcionario01.png"
+  },
+  {
+    "id": 2,
+    "nome": "Marina Defendi",
+    "cargo": "Chefe",
+    "salario": 2100.00,
+    "dataContatacao": "2021-11-02",
+    "avatar" : "/assets/funcionario02.png"
+  },
+  {
+    "id": 3,
+    "nome": "Cesar Moraes",
+    "cargo": "Medico",
+    "salario": 1950.75,
+    "dataContatacao": "2023-01-20",
+    "avatar" : "/assets/funcionario03.png"
+  },
+  {
+    "id": 4,
+    "nome": "Ana Laura Lazarini",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContatacao": "2020-08-10",
+    "avatar" : "/assets/funcionario04.png"
+  },
+  {
+    "id": 5,
+    "nome": "Antonio Godoy",
+    "cargo": "Enfermeiro",
+    "salario": 1700.00,
+    "dataContatacao": "2024-02-05",
+    "avatar" : "/assets/funcionario05.png"
+  },
+  {
+    "id": 6,
+    "nome": "Leo Polizel",
+    "cargo": "Faxineiro",
+    "salario": 2200.30,
+    "dataContatacao": "2022-07-18",
+    "avatar" : "/assets/funcionario06.png"
+  },
+  {
+    "id": 7,
+    "nome": "Maria fernanda Gomes",
+    "cargo": "Medica",
+    "salario": 1820.00,
+    "dataContatacao": "2023-06-12",
+    "avatar" : "/assets/funcionario07.png"
+
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "cargo": "Atendente",
+    "salario": 2800.90,
+    "dataContatacao": "2021-04-25",
+    "avatar" : "/assets/funcionario08.png"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "cargo": "Auxiliar",
+    "salario": 2000.00,
+    "dataContatacao": "2022-09-30",
+    "avatar" : "/assets/funcionario09.png"
+
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "cargo": "Enfermeiro",
+    "salario": 1750.60,
+    "dataContatacao": "2024-05-14",
+    "avatar" : "/assets/funcionario10.png"
+  }
+]
