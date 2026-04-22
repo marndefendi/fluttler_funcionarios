@@ -4,6 +4,6 @@ import '/ui/splash.dart';
 
 void main() {
   runApp(
-    MaterialApp(title: "Papelaria", theme: AppTheme.appTeme, home: Splash()),
+    MaterialApp(title: "Funcionarios", theme: AppTheme.appTeme, home: Splash()),
   );
 }
